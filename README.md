@@ -1,8 +1,8 @@
 ### Hi there, I'm [Flolep2607!](https://flolep.fr) 👋
 
-<a href="https://codesandbox.io/u/flolep2607">
+<- <a href="https://codesandbox.io/u/flolep2607">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/flolep2607/flolep2607/master/assets/codesandbox.svg" />
-</a>
+</a>-->
 <a href="https://twitter.com/Flolep2607">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/flolep2607/flolep2607/master/assets/twitter.svg" />
 </a>
