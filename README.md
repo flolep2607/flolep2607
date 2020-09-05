@@ -16,7 +16,7 @@
 
 Hi, I'm Florian Leprat, a passionate of Programming from France.
 
-- 🔭 I’m currently working on my website [ConvoyChat](https://flolep.fr)
+- 🔭 I’m currently working on my website [flolep.fr](https://flolep.fr)
 
 **Languages and Tools:**  
 
@@ -31,16 +31,16 @@ Hi, I'm Florian Leprat, a passionate of Programming from France.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flolep2607&theme=tokyonight)
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/flolep2607/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=flolep2607&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/flolep2607/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flolep2607&layout=compact&theme=radical" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/flolep2607/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flolep2607&repo=github-readme-stats&theme=radical" />
 </a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flolep2607&repo=anuraghazra.github.io&theme=radical" />
+<a href="https://github.com/flolep2607/flolep2607.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flolep2607&repo=flolep2607.github.io&theme=radical" />
 </a>
