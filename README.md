@@ -34,7 +34,7 @@ Hi, I'm Florian Leprat, a passionate of Programming from France.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=flolep2607&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" />
 </a>
 <a href="https://github.com/flolep2607/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flolep2607&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flolep2607&layout=compact&theme=radical&hide=php,css" />
 </a>
 
 <a href="https://github.com/flolep2607/github-readme-stats">
