@@ -1,4 +1,3 @@
-![](https://visitor-badge.laobi.icu/badge?page_id=flolep2607.flolep2607)
 ### Hi there, I'm [Flolep2607!](https://flolep.fr) 👋
 
 <a href="https://codesandbox.io/u/flolep2607">
@@ -44,3 +43,4 @@ Hi, I'm Florian Leprat, a passionate of Programming from France.
 <a href="https://github.com/flolep2607/flolep2607.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flolep2607&repo=domain-checker&theme=radical" />
 </a>
+![](https://visitor-badge.laobi.icu/badge?page_id=flolep2607.flolep2607)
