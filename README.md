@@ -39,8 +39,8 @@ Hi, I'm Florian Leprat, a passionate of Programming from France.
 </a>
 
 <a href="https://github.com/flolep2607/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flolep2607&repo=github-readme-stats&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flolep2607&repo=Lya&theme=radical" />
 </a>    
 <a href="https://github.com/flolep2607/flolep2607.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flolep2607&repo=flolep2607.github.io&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flolep2607&repo=domain-checker&theme=radical" />
 </a>
