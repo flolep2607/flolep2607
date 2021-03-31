@@ -44,6 +44,6 @@ Hi, I'm Florian Leprat, a passionate of Programming from France.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flolep2607&repo=domain-checker&theme=radical" />
 </a>
 
-![shokobrand](./assets/banner-cat.png)
+[![shokobrand](./assets/banner-cat.png)](https://shokokuki.ga/)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=flolep2607.flolep2607)
