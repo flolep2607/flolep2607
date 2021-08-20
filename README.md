@@ -45,5 +45,6 @@ Hi, I'm ______ ____, a passionate of Programming from France.
 </a>
 
 [![shokobrand](./assets/banner-cat.png)](https://shokokuki.ga/)
+[![Discord](https://discord.c99.nl/widget/theme-2/566580404279181341.png)](http://discord.com/users/566580404279181341)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=flolep2607.flolep2607)
