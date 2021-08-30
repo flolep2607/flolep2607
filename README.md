@@ -6,7 +6,7 @@
 <a href="https://twitter.com/Flolep2607">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/flolep2607/flolep2607/master/assets/twitter.svg" />
 </a>
-<a href="hhttps://discord.gg/8eybfze">
+<a href="http://discord.com/users/566580404279181341">
   <img align="left" alt="Fusion's Discord" width="21px" src="https://raw.githubusercontent.com/flolep2607/flolep2607/master/assets/discord-round.svg" />
 </a>
 
