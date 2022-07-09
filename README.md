@@ -37,11 +37,14 @@ Hi, I'm ______ ____, a passionate of Programming from France.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flolep2607&layout=compact&theme=radical&hide=php,css" />
 </a>
 
-<a href="https://github.com/flolep2607/github-readme-stats">
+<a href="https://github.com/flolep2607/Lya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flolep2607&repo=Lya&theme=radical" />
 </a>    
-<a href="https://github.com/flolep2607/flolep2607.github.io">
+<a href="https://github.com/flolep2607/domain-checker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flolep2607&repo=domain-checker&theme=radical" />
+</a> 
+<a href="https://github.com/flolep2607/soko">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flolep2607&repo=soko&theme=radical" />
 </a>
 
 [![shokobrand](./assets/banner-cat.png)](https://shokokuki.ga/)
