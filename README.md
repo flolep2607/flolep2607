@@ -17,13 +17,17 @@ Hi, I'm ______ ____, a passionate of Programming from France.
 
 - 🔭 I’m currently working on stud
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
+<a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a>
+</p>
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of 
@@ -37,16 +41,6 @@ Hi, I'm ______ ____, a passionate of Programming from France.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flolep2607&layout=compact&theme=radical&hide=php,css" />
 </a>
 
-<a href="https://github.com/flolep2607/Lya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flolep2607&repo=Lya&theme=radical" />
-</a>    
-<a href="https://github.com/flolep2607/domain-checker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flolep2607&repo=domain-checker&theme=radical" />
-</a> 
-<a href="https://github.com/flolep2607/soko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=flolep2607&repo=soko&theme=radical" />
-</a>
 
-[![shokobrand](./assets/banner-cat.png)](https://shokokuki.ga/)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=flolep2607.flolep2607)
