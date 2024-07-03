@@ -1,32 +1,19 @@
 ### Hi there, I'm [Flolep2607!](https://flolep.fr) 👋
 
-<!-- <a href="https://codesandbox.io/u/flolep2607">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/flolep2607/flolep2607/master/assets/codesandbox.svg" />
-</a>-->
-<a href="https://twitter.com/Flolep2607">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/flolep2607/flolep2607/master/assets/twitter.svg" />
-</a>
-<a href="http://discord.com/users/566580404279181341">
-  <img align="left" alt="Fusion's Discord" width="21px" src="https://raw.githubusercontent.com/flolep2607/flolep2607/master/assets/discord-round.svg" />
-</a>
-
-<br />
 <br />
 
-Hi, I'm ______ ____, a passionate of Programming from France.
+A passionate of Programming from France.
 
-- 🔭 I’m currently working on stud
+- 🔭 I’m currently studying
 
 **Languages and Tools:**
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
+<a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a>
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a>
 </p>
 
 
@@ -40,7 +27,12 @@ Hi, I'm ______ ____, a passionate of Programming from France.
 <a href="https://github.com/flolep2607/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flolep2607&layout=compact&theme=radical&hide=php,css" />
 </a>
-
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=flolep2607&a=4" alt="CodersRank badge" width="420" />
+<p align="center">
+  <a href="https://profile.codersrank.io/user/peti2001" target="_blank">
+    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=flolep2607&skills=rust,C,javascript,python&width=1020" alt="CodersRank skills chart"/>
+  </a>
+</p>
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=flolep2607.flolep2607)
