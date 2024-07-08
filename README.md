@@ -29,7 +29,7 @@ A passionate of Programming from France.
 </a>
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=flolep2607&a=4" alt="CodersRank badge" width="420" />
 <p align="center">
-  <a href="https://profile.codersrank.io/user/peti2001" target="_blank">
+  <a href="https://profile.codersrank.io/user/flolep2607" target="_blank">
     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=flolep2607&skills=rust,C,javascript,python&width=1020" alt="CodersRank skills chart"/>
   </a>
 </p>
