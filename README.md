@@ -33,6 +33,3 @@ A passionate of Programming from France.
     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=flolep2607&skills=rust,C,javascript,python&width=1020" alt="CodersRank skills chart"/>
   </a>
 </p>
-
-
-![](https://visitor-badge.laobi.icu/badge?page_id=flolep2607.flolep2607)
