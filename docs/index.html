@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<!--
+  Oh hi. You opened View Source.
+  Welcome to the backstage pass.
+
+  Fuel for this page (in descending order of respectability):
+    1. cold Coca-Cola (the nasal delivery method is a myth — we drink it)
+    2. Rust compile errors
+    3. the vague hope that recruiters read past the hero
+    4. one (1) GPU used as a space heater
+
+  If you're an ATS parser: hello robot friend, the <noscript> block is for you.
+  If you're a human: scroll down, the serious bits are visible on purpose.
+-->
+<html lang="en" data-lang="en" data-audience="nz">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Florian Leprat — Ingénieur ESISAR P25 · cyber · systèmes · IA</title>
+  <meta name="description" content="Florian Leprat — ingénieur Grenoble INP ESISAR P25, filière IRC (ANSSI SecNumedu). Engineer at Xtracta (Auckland). Rust, Python, systèmes." />
+  <meta name="author" content="Florian Leprat" />
+  <meta name="robots" content="index, follow" />
+  <meta name="theme-color" content="#0b120d" />
+  <meta name="color-scheme" content="dark" />
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="canonical" href="https://me.flolep.fr/" />
+  <link rel="alternate" href="https://flolep2607.github.io/flolep2607/" />
+
+  <meta property="og:title" content="Florian Leprat — ESISAR P25" />
+  <meta property="og:description" content="Ingénieur ESISAR P25 · IRC · Engineer at Xtracta. Rust &amp; Python systems." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://me.flolep.fr/" />
+  <meta property="og:image" content="https://flolep.fr/room.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Florian Leprat — ESISAR P25" />
+  <meta name="twitter:description" content="Ingénieur ESISAR P25 · IRC · Engineer at Xtracta. Rust &amp; Python systems." />
+  <meta name="twitter:image" content="https://flolep.fr/room.png" />
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Florian Leprat",
+    "url": "https://me.flolep.fr/",
+    "image": "https://flolep.fr/room.png",
+    "jobTitle": "Engineer",
+    "description": "Ingénieur Grenoble INP ESISAR promo P25, filière IRC (ANSSI SecNumedu). Engineer at Xtracta, Auckland. Rust, Python, réseaux, cybersécurité.",
+    "alumniOf": {
+      "@type": "CollegeOrUniversity",
+      "name": "Grenoble INP — ESISAR",
+      "url": "https://esisar.grenoble-inp.fr/"
+    },
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Xtracta",
+      "url": "https://xtracta.com"
+    },
+    "knowsAbout": [
+      "cybersécurité",
+      "réseaux informatiques",
+      "Rust",
+      "Python",
+      "Linux",
+      "detection engineering",
+      "DevSecOps",
+      "systèmes distribués"
+    ],
+    "knowsLanguage": ["fr", "en"],
+    "sameAs": [
+      "https://github.com/flolep2607",
+      "https://www.linkedin.com/in/florian-leprat",
+      "https://flolep.fr",
+      "https://www.manifoldbt.com",
+      "https://flolep2607.github.io/flolep2607/"
+    ],
+    "nationality": "French",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Auckland",
+      "addressCountry": "NZ"
+    }
+  }
+  </script>
+
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+        href="https://fonts.gstatic.com/s/pressstart2p/v15/e3t4euO8T-267oIAQAu6jDQyK3nVivM.woff2" />
+  <!-- Press Start 2P: because Inter was too emotionally available -->
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-audience="nz">
+  <a class="skip" href="#now">Skip to content</a>
+  <!--
+    Plain-text résumé for non-JS fetchers / ATS goblins.
+    Mirrors docs/cv-security-engineer.md.
+    JS visitors never see this. Neither do most humans. That's the joke.
+  -->
+  <noscript>
+    <article class="noscript-resume" id="resume-plain">
+      <header>
+        <h1>Florian Leprat</h1>
+        <p>Ingénieur ESISAR P25 · Systems &amp; Security Engineer</p>
+        <p>Auckland, New Zealand · github.com/flolep2607 · flolep.fr · linkedin.com/in/florian-leprat</p>
+      </header>
+
+      <section>
+        <h2>Profil / Summary</h2>
+        <p>
+          Ingénieur diplômé Grenoble INP ESISAR promo P25, filière Informatique, Réseaux et Cybersécurité (IRC),
+          label ANSSI SecNumedu (août 2025). Engineer at Xtracta (Auckland) since September 2025.
+          Conception de systèmes bas niveau et pipelines de données en Rust et Python ;
+          infrastructure auto-hébergée (Linux, Docker, WireGuard, Cloudflare).
+          Citoyen français. TOEIC 925.
+        </p>
+      </section>
+
+      <section>
+        <h2>Compétences / Skills</h2>
+        <p>
+          Cybersécurité et réseaux : TCP/IP, DNS, VPN, firewall / pare-feu, segmentation réseau,
+          threat modeling / modélisation de menaces, OSINT, analyse de logs / log analysis,
+          gestion des vulnérabilités / vulnerability management, hardening / durcissement,
+          authentification MFA, Zero Trust fundamentals.
+        </p>
+        <p>
+          Détection et opérations : Security Information and Event Management (SIEM) concepts,
+          Endpoint Detection and Response (EDR) concepts, triage d'alertes, playbooks,
+          Prometheus, Grafana, observabilité.
+        </p>
+        <p>
+          Systèmes et développement : Rust, Python, TypeScript, C/C++, Linux (Debian/RHEL-class),
+          Bash, Docker, PostgreSQL, FastAPI, Cloudflare Workers, Git, CI/CD (GitHub Actions),
+          CUDA, builds musl, reverse engineering fundamentals.
+        </p>
+      </section>
+
+      <section>
+        <h2>Expérience / Experience</h2>
+        <ul>
+          <li>
+            Xtracta (Auckland) — Engineer, September 2025–present.
+          </li>
+          <li>
+            ManifoldBT — Core contributor (2025–present). Rust backtesting engine with Python DSL;
+            ~500K bars in ~26ms (161× vs vectorbt). Validation tooling, connectors, PyPI distribution.
+          </li>
+          <li>
+            cctop — Author. Rust TUI: htop for AI coding agents (cost, context, waiting sessions). Musl builds, cargo install.
+          </li>
+          <li>
+            thermalbloater — Author. Rust + CUDA space heater: maximize GPU watt draw for warmth, per-GPU thermostat, Linux/Windows releases.
+          </li>
+          <li>
+            tvdata — Author. Python library/CLI on PyPI for bulk financial candle data (typed, tested, CI).
+          </li>
+          <li>
+            OSINT / data collectors &amp; homelab — FastAPI scheduled ingestion, Postgres, Prometheus/Grafana; Cloudflare tunnels, WireGuard.
+          </li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Formation / Education</h2>
+        <p>
+          Grenoble INP — ESISAR, Diplôme d'ingénieur, promo P25,
+          filière IRC (Informatique, Réseaux et Cybersécurité),
+          label ANSSI SecNumedu — août 2025. Focus : cybersécurité, réseaux, intelligence artificielle.
+          Cisco Cybersecurity Essentials. TOEIC 925/990 (déc. 2023).
+        </p>
+      </section>
+
+      <section>
+        <h2>Open source</h2>
+        <ul>
+          <li>newspaper4k — merged fix (Python)</li>
+          <li>TradingView-API — feature PR (JavaScript)</li>
+          <li>hexapod — Rust/WASM gait lab (physics sim, ARS trainer)</li>
+          <li>git_commit (Floteur) — AI-assisted Git tooling since Dec 2022</li>
+        </ul>
+      </section>
+
+      <section>
+        <h2>Langues / Languages</h2>
+        <p>Français (natif) · English (courant / fluent, TOEIC 925)</p>
+      </section>
+
+      <footer>
+        <p>Version interactive : activer JavaScript. Ce résumé texte est la source canonique pour les extracteurs.</p>
+      </footer>
+    </article>
+  </noscript>
+
+  <!-- Film grain + scanlines: free nostalgia, zero CRT disposal fees -->
+  <div class="noise" aria-hidden="true"></div>
+  <div class="scanlines" aria-hidden="true"></div>
+
+  <div id="fallback-banner" class="fallback-banner" hidden>
+    <p>
+      <strong data-reason-title data-i18n="fallback.title">Fallback mirror</strong> —
+      <span data-reason-text data-i18n="fallback.down">me.flolep.fr looks offline, so you’re on the GitHub Pages copy.</span>
+      <a class="quiet" href="?nofallback=1" data-reason-stay data-i18n="fallback.stay">stay here</a>
+    </p>
+  </div>
+
+  <!-- Nav: five links, zero LinkedIn open-to-work banners. You're welcome. -->
+  <header class="top">
+    <a class="brand" href="#top">FLOLEP</a>
+    <div class="top-right">
+      <nav>
+        <a href="#now" data-i18n="nav.now">Now</a>
+        <a href="#work" data-i18n="nav.work">Work</a>
+        <a href="#school" data-i18n="nav.school">School</a>
+        <a href="#vault" data-i18n="nav.vault">Vault</a>
+        <a href="#recruit" data-seek hidden data-i18n="nav.recruit">Hire</a>
+        <a href="#contact" data-i18n="nav.contact">Contact</a>
+      </nav>
+      <!-- Default EN. Browser fr* → FR. localStorage / ?lang= stick. -->
+      <div class="lang-switch" role="group" aria-label="Language">
+        <button type="button" data-set-lang="en" aria-pressed="true">EN</button>
+        <button type="button" data-set-lang="fr" aria-pressed="false">FR</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="top">
+    <!--
+      HERO BUDGET (enforced by vibes, not CSS):
+      brand · one headline · one lede · CTA · one weird canvas crane
+      No stats. No "this week". No floating badges. No sniffing the cola on camera.
+    -->
+    <section class="hero">
+      <div class="hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow">Grenoble INP · ESISAR P25 · IRC · SecNumedu</p>
+          <h1>Florian&nbsp;Leprat</h1>
+          <p class="tagline">
+            <span class="typed" id="typed"></span><span class="caret" aria-hidden="true"></span>
+          </p>
+          <p class="lede" data-i18n="hero.lede" data-i18n-html>
+            Engineer at <strong>Xtracta</strong> in Auckland. I build systems that have to be
+            fast, observable and hard to surprise — mostly in
+            <strong>Rust</strong> and <strong>Python</strong>.
+            <strong>Grenoble INP · ESISAR P25</strong>, IRC (CS, networks, cybersecurity) —
+            CTI-accredited, master’s-equivalent, ANSSI SecNumedu.
+          </p>
+          <p class="lede loc" data-audience="nz stealth oceania blocked" data-i18n="loc.quiet" data-i18n-html>
+            Based in <strong>Auckland</strong>.
+          </p>
+          <p class="lede loc" data-audience="france" hidden data-i18n="loc.france" data-i18n-html>
+            ESISAR <strong>P25</strong> · open to a <strong>CDI in France</strong> / remote EU.
+          </p>
+          <p class="lede loc" data-audience="australia" hidden data-i18n="loc.australia" data-i18n-html>
+            French citizen in Auckland — open to <strong>Australia</strong> (Sydney / Melbourne / remote).
+          </p>
+          <p class="lede loc" data-audience="us" hidden data-i18n="loc.us" data-i18n-html>
+            French citizen in Auckland — open to <strong>US</strong> teams that sponsor.
+          </p>
+          <p class="lede loc" data-audience="default" hidden data-i18n="loc.default" data-i18n-html>
+            Open to <strong>Australia</strong>, the <strong>US</strong>, and <strong>France</strong>.
+          </p>
+          <div class="cta">
+            <a class="btn primary" href="https://github.com/flolep2607">GitHub</a>
+            <a class="btn" href="https://flolep.fr">flolep.fr</a>
+            <a class="btn" href="https://www.manifoldbt.com">ManifoldBT</a>
+          </div>
+        </div>
+
+        <!-- Little gantry that spells FLOLEP. Not a dashboard. Not NFTs. Just letters. -->
+        <aside class="builder" aria-label="Animated profile builder" id="builder">
+          <div class="builder-chrome">
+            <span class="dot"></span><span class="dot"></span><span class="dot"></span>
+            <span class="builder-title">flolep · construct</span>
+            <!-- traffic-light dots: decorative. Do not attempt to close the tab with them. -->
+          </div>
+          <div class="builder-stage">
+            <canvas id="builder-canvas" width="420" height="280" aria-hidden="true"></canvas>
+            <pre class="builder-log" id="builder-log" aria-hidden="true"></pre>
+          </div>
+          <div class="builder-bars" aria-hidden="true">
+            <div class="bar"><span style="--w:92%"></span><em data-i18n="bar.systems">systems</em></div>
+            <div class="bar"><span style="--w:88%"></span><em data-i18n="bar.networks">networks</em></div>
+            <div class="bar"><span style="--w:84%"></span><em data-i18n="bar.cyber">cyber</em></div>
+            <div class="bar"><span style="--w:90%"></span><em data-i18n="bar.rust">rust</em></div>
+          </div>
+        </aside>
+      </div>
+      <div class="ticker" aria-hidden="true">
+        <div class="ticker-track">
+          <span>cctop</span><span>thermalbloater</span><span>tvdata</span><span>ManifoldBT</span><span>hexapod</span><span>git_commit</span><span>radar.flolep.fr</span><span>Rust</span><span>Python</span>
+          <span>cctop</span><span>thermalbloater</span><span>tvdata</span><span>ManifoldBT</span><span>hexapod</span><span>git_commit</span><span>radar.flolep.fr</span><span>Rust</span><span>Python</span>
+        </div>
+      </div>
+    </section>
+
+    <!-- Current job. Title + city + date. No invented duties. -->
+    <section class="school" id="now">
+      <p class="eyebrow"><span class="idx" aria-hidden="true">01</span> <span data-i18n="now.eyebrow">Now</span></p>
+      <h2><a href="https://xtracta.com">Xtracta</a></h2>
+      <p class="lede narrow" data-i18n="now.lede" data-i18n-html>
+        <strong>Engineer</strong>, Auckland — since <strong>September 2025</strong>
+        (end-of-studies internship, then hired).
+      </p>
+      <dl class="school-facts">
+        <div>
+          <dt data-i18n="now.dt1">Role</dt>
+          <dd data-i18n="now.dd1">Engineer</dd>
+        </div>
+        <div>
+          <dt data-i18n="now.dt2">Since</dt>
+          <dd data-i18n="now.dd2">September 2025</dd>
+        </div>
+        <div>
+          <dt data-i18n="now.dt3">Where</dt>
+          <dd>Auckland, NZ</dd>
+        </div>
+        <div>
+          <dt data-i18n="now.dt4">School</dt>
+          <dd>ESISAR P25</dd>
+        </div>
+      </dl>
+    </section>
+
+    <!-- ManifoldBT: the thing that makes the electricity bill interesting for a noble reason -->
+    <section class="feature" id="manifold">
+      <div class="feature-copy">
+        <p class="eyebrow"><span class="idx" aria-hidden="true">02</span> <span data-i18n="manifold.eyebrow">Flagship · core contributor</span></p>
+        <h2>ManifoldBT</h2>
+        <p data-i18n="manifold.body">
+          Backtesting engine for quantitative research. Strategies in a fluent Python DSL,
+          compiled into an optimised Rust expression graph, executed vectorised.
+        </p>
+        <ul class="metrics">
+          <li data-i18n="manifold.m1" data-i18n-html><strong>500K</strong> bars in ~26&nbsp;ms</li>
+          <li data-i18n="manifold.m2" data-i18n-html><strong>161×</strong> faster than vectorbt</li>
+          <li data-i18n="manifold.m3" data-i18n-html><strong>pip</strong> install — no Rust toolchain</li>
+        </ul>
+        <p class="note" data-i18n="manifold.note">
+          I wrote effectively all of the next version — engine, DSL surface and validation tooling —
+          currently unreleased. Large Rust codebases and adversarial edge-cases are the same
+          muscles cybersecurity work uses.
+        </p>
+        <div class="cta">
+          <a class="btn primary" href="https://www.manifoldbt.com" data-i18n="manifold.web">Website</a>
+          <a class="btn" href="https://github.com/manifoldbt/manifoldbt" data-i18n="manifold.repo">Repository</a>
+          <a class="btn" href="https://pypi.org/project/manifoldbt/">PyPI</a>
+        </div>
+      </div>
+      <div class="code-frame">
+        <div class="builder-chrome">
+          <span class="dot"></span><span class="dot"></span><span class="dot"></span>
+          <span class="builder-title">manifoldbt · ema_crossover</span>
+        </div>
+        <pre class="code" tabindex="0"><code>fast, slow = ema(close, 12), ema(close, 26)
+
+strategy = (
+    mbt.Strategy.create("ema_crossover")
+      .signal("signal", mbt.when(fast &gt; slow, mbt.lit(1.0), mbt.lit(-1.0)))
+      .size(mbt.col("signal") * mbt.lit(0.25))
+)
+
+result = mbt.run(strategy, config, store)</code></pre>
+      </div>
+    </section>
+
+    <!-- Public toys. The private ones are in the vault, being responsible adults. -->
+    <section id="work">
+      <p class="eyebrow"><span class="idx" aria-hidden="true">03</span> <span data-i18n="work.eyebrow">Public work</span></p>
+      <h2 data-i18n="work.title">Things that ship</h2>
+      <div class="projects">
+        <article>
+          <p class="meta">Rust · TUI · cargo install</p>
+          <h3><a href="https://github.com/flolep2607/cctop">cctop</a></h3>
+          <p data-i18n="cctop.p">htop for AI coding agents. One screen for every Claude Code, Codex, Cursor, Gemini session — cost, context, who’s waiting. Musl builds, doctor, live hooks.</p>
+        </article>
+        <article>
+          <!-- thermalbloater: central heating for people who own GPUs and bad life choices -->
+          <p class="meta">Rust · CUDA · Linux &amp; Windows</p>
+          <h3><a href="https://github.com/flolep2607/thermalbloater">thermalbloater</a></h3>
+          <p data-i18n="thermal.p">No heater at home — so this maxes GPU watts until the room warms up. Autotunes GEMM per card, holds every GPU under a temperature cap.</p>
+        </article>
+        <article>
+          <p class="meta">Python · PyPI · typed</p>
+          <h3><a href="https://github.com/flolep2607/tvdata">tvdata</a></h3>
+          <p data-i18n="tvdata.p" data-i18n-html><code>pip install TvData</code> — bulk candle data into Pandas, chunked, mypy-friendly, CI-released.</p>
+        </article>
+        <article>
+          <p class="meta" data-i18n="also.meta">Open source</p>
+          <h3 data-i18n="also.title">Also</h3>
+          <p>
+            <a href="https://github.com/flolep2607/hexapod">hexapod</a> ·
+            <a href="https://github.com/Floteur/git_commit">git_commit</a> ·
+            <a href="https://github.com/flolep2607/neat_trading_rs">neat_trading_rs</a> ·
+            <a href="https://github.com/flolep2607/soko">soko</a> ·
+            <a href="https://github.com/flolep2607/AdventOfCode">Advent of Code</a> ·
+            <a href="https://github.com/AndyTheFactory/newspaper4k/pull/594">newspaper4k</a>
+          </p>
+        </article>
+      </div>
+    </section>
+
+    <!-- Location-specific hire block. Hidden until geo (or ?audience=) picks a market. -->
+    <section id="recruit" data-seek hidden>
+      <p class="eyebrow"><span class="idx" aria-hidden="true">04</span> <span data-i18n="recruit.eyebrow">Hire</span></p>
+
+      <div data-audience="france">
+        <h2 data-i18n="recruit.fr.title">Ouvert à un CDI en France</h2>
+        <p class="lede narrow" data-i18n="recruit.fr.lede">
+          Ingénieur ESISAR P25, filière IRC (ANSSI SecNumedu). En poste à Auckland.
+          Détection, AppSec / DevSecOps, ou ingénieur systèmes. Citoyen français — habilitation défense / CDII.
+        </p>
+      </div>
+      <div data-audience="australia" hidden>
+        <h2 data-i18n="recruit.au.title">Open to Australia</h2>
+        <p class="lede narrow" data-i18n="recruit.au.lede">
+          Software / security engineer. CTI diplôme d’ingénieur (master’s-equivalent, AQF 9).
+          IRC: CS, networks, cybersecurity. Currently in Auckland. Open to 482 sponsorship —
+          Sydney, Melbourne, or remote AU.
+        </p>
+      </div>
+      <div data-audience="us" hidden>
+        <h2 data-i18n="recruit.us.title">Open to US teams that sponsor</h2>
+        <p class="lede narrow" data-i18n="recruit.us.lede">
+          French citizen, currently in Auckland. CTI engineering degree (typically WES master’s-equivalent).
+          Production systems in Rust and Python. Looking for software, platform, or security engineering
+          at teams that sponsor — specialty-occupation profile, not a staffing lottery.
+        </p>
+      </div>
+      <div data-audience="default" hidden>
+        <h2 data-i18n="recruit.default.title">Open to Australia, the US, and France</h2>
+        <p class="lede narrow" data-i18n="recruit.default.lede">
+          ESISAR P25 · IRC · SecNumedu. Engineer in Auckland. Detection, AppSec, or
+          security-minded systems — also a strong Rust/Python seat.
+        </p>
+      </div>
+
+      <div class="cta">
+        <a class="btn primary" href="mailto:flo.lep2607@gmail.com">flo.lep2607@gmail.com</a>
+        <a class="btn" href="https://www.linkedin.com/in/florian-leprat">LinkedIn</a>
+      </div>
+    </section>
+    <section id="cyber">
+      <p class="eyebrow"><span class="idx" aria-hidden="true">05</span> <span data-i18n="cyber.eyebrow">IRC · systems</span></p>
+      <h2 data-i18n="cyber.title">What the work exercises</h2>
+      <p class="lede narrow" data-i18n="cyber.lede">
+        ESISAR is an embedded-systems school. IRC is the CS + networks + cybersecurity track.
+        The public work is the overlap: low-level code, networks you can actually run, and
+        systems that fail loudly instead of quietly.
+      </p>
+      <div class="map map-6">
+        <div>
+          <h3 data-i18n="cyber.s1" data-i18n-html>Systems &amp; low-level</h3>
+          <p data-i18n="cyber.s1p">Rust engines, C, CUDA binaries, musl static builds</p>
+        </div>
+        <div>
+          <h3 data-i18n="cyber.s2">Networks</h3>
+          <p data-i18n="cyber.s2p">TCP/IP, DNS, WireGuard, Cloudflare tunnels, proxy-aware collectors</p>
+        </div>
+        <div>
+          <h3 data-i18n="cyber.s5">Cybersecurity</h3>
+          <p data-i18n="cyber.s5p">ANSSI SecNumedu track · threat modelling, hardening, OSINT, detection-shaped habits</p>
+        </div>
+        <div>
+          <h3 data-i18n="cyber.s6">Embedded</h3>
+          <p data-i18n="cyber.s6p">ESISAR DNA: C, hexapod gait lab, CUDA, hardware-aware software</p>
+        </div>
+        <div>
+          <h3 data-i18n="cyber.s3" data-i18n-html>Data &amp; agents</h3>
+          <p data-i18n="cyber.s3p">cctop (Rust TUI for AI coding agents), typed Python pipelines, PyPI releases</p>
+        </div>
+        <div>
+          <h3 data-i18n="cyber.s4">Adversarial thinking</h3>
+          <p data-i18n="cyber.s4p">Lookahead detection, latency races, edge-case hunting — same habit as threat modelling</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- School: the expensive sticker that says you're allowed to break computers professionally -->
+    <section id="school" class="school">
+      <p class="eyebrow"><span class="idx" aria-hidden="true">06</span> <span data-i18n="school.eyebrow">Education</span></p>
+      <h2 data-i18n="school.title">Grenoble INP — ESISAR</h2>
+      <p class="lede narrow" data-i18n="school.lede" data-i18n-html>
+        CTI-accredited <strong>diplôme d’ingénieur</strong> (5 years, 300 ECTS) —
+        master’s-equivalent. Promo <strong>P25</strong>.
+        Track: <strong>Computer Science, Networks and Cybersecurity (IRC)</strong>,
+        labelled <strong>ANSSI SecNumedu</strong> — August 2025.
+      </p>
+      <dl class="school-facts">
+        <div>
+          <dt data-i18n="school.dt1">School</dt>
+          <dd><a href="https://esisar.grenoble-inp.fr/">ESISAR</a> · Grenoble INP</dd>
+        </div>
+        <div>
+          <dt data-i18n="school.dt2">Degree</dt>
+          <dd data-i18n="school.dd2">CTI · master’s-eq.</dd>
+        </div>
+        <div>
+          <dt data-i18n="school.dt3">Track</dt>
+          <dd>IRC · SecNumedu</dd>
+        </div>
+        <div>
+          <dt data-i18n="school.dt4">English</dt>
+          <dd data-i18n="school.dd4">TOEIC 925 / 990</dd>
+        </div>
+      </dl>
+    </section>
+
+    <!--
+      VAULT RULES:
+      - no links
+      - no spoilers
+      - if you can see it in the source, it was already polite enough
+      - the impolite half is offline, cold, and judging you
+    -->
+    <section id="vault">
+      <p class="eyebrow"><span class="idx" aria-hidden="true">07</span> <span data-i18n="vault.eyebrow">Private catalogue</span></p>
+      <h2 data-i18n="vault.title">Behind the wall</h2>
+      <p class="lede narrow" data-i18n="vault.lede">
+        ~75 private repositories — no links. Boring infrastructure, trading systems,
+        and the kind of curiosity that stays private on purpose.
+      </p>
+      <div class="vault">
+        <div>
+          <h3 data-i18n="vault.h1" data-i18n-html>Collection &amp; analysis</h3>
+          <ul>
+            <li data-i18n="vault.l1">OSINT service — FastAPI, scheduled collectors</li>
+            <li data-i18n="vault.l2">Macro / market data with auth and rate limits</li>
+            <li data-i18n="vault.l3">Vehicle market scraper — Postgres + Grafana</li>
+          </ul>
+        </div>
+        <div>
+          <h3 data-i18n="vault.h2" data-i18n-html>Systems &amp; trading</h3>
+          <ul>
+            <li data-i18n="vault.l4">Rust listing detector — millisecond budget, musl</li>
+            <li data-i18n="vault.l5">On-chain arb on HyperEVM — Rust + Solidity</li>
+            <li data-i18n="vault.l6">Cross-venue detection · RL · self-play poker</li>
+          </ul>
+        </div>
+        <div>
+          <h3 data-i18n="vault.h3">Infrastructure</h3>
+          <ul>
+            <li data-i18n="vault.l7">Discord-backed filesystem — JS, then Rust</li>
+            <li data-i18n="vault.l8">LLM proxy on Cloudflare Workers</li>
+            <li data-i18n="vault.l9">Media stack behind WireGuard + tunnels</li>
+          </ul>
+        </div>
+        <div>
+          <h3 data-i18n="vault.h4">Products</h3>
+          <ul>
+            <li data-i18n="vault.l10">Japan trip planner — Vue · Fastify · Gemini</li>
+            <li data-i18n="vault.l11">Recipe manager · Flutter radar alerts</li>
+            <li data-i18n="vault.l12">Godot jam · CS:GO trade-up EV (WASM)</li>
+          </ul>
+        </div>
+      </div>
+      <p class="vault-note" data-i18n="vault.note">Happy to walk through the polite half in a conversation. The rest stays cold.</p>
+    </section>
+
+    <!-- Stack: not a skillicons row. Those things look like Pokémon and recruiters collect them. -->
+    <section id="stack">
+      <p class="eyebrow"><span class="idx" aria-hidden="true">08</span> <span data-i18n="stack.eyebrow">Toolbox</span></p>
+      <h2 data-i18n="stack.title">Stack</h2>
+      <p class="lede narrow" data-i18n="stack.lede">
+        Daily drivers first. Everything else shows up when the problem asks for it —
+        not when a skill-matrix spreadsheet does.
+      </p>
+      <div class="stack">
+        <div>
+          <h3 data-i18n="stack.h1">Daily</h3>
+          <p>Rust · Python · Linux</p>
+        </div>
+        <div>
+          <h3 data-i18n="stack.h2" data-i18n-html>Networks &amp; infra</h3>
+          <p>Docker · Cloudflare Workers / tunnels · WireGuard · Postgres · Prometheus / Grafana</p>
+        </div>
+        <div>
+          <h3 data-i18n="stack.h3">Also</h3>
+          <p>TypeScript · Vue · C / C++ · Java · FastAPI · CUDA · Bash · Git / CI</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Side quests that accidentally went to production -->
+    <section id="tools">
+      <p class="eyebrow"><span class="idx" aria-hidden="true">09</span> <span data-i18n="tools.eyebrow">Deployed</span></p>
+      <h2 data-i18n="tools.title">Live on flolep.fr</h2>
+      <ul class="tools">
+        <li><a href="https://radar.flolep.fr"><strong><i class="live" aria-hidden="true"></i>radar</strong><span data-i18n="tools.radar">French speed-camera map</span></a></li>
+        <li><a href="https://anime.flolep.fr"><strong><i class="live" aria-hidden="true"></i>anime</strong><span data-i18n="tools.anime">Search across ~50 VOSTFR/VF sources</span></a></li>
+        <!-- vignette: bureaucracy.exe has stopped responding — here's a reprint -->
+        <li><a href="https://vignette.flolep.fr"><strong><i class="live" aria-hidden="true"></i>vignette</strong><span data-i18n="tools.vignette">Contrôle technique sticker regen</span></a></li>
+        <li><a href="https://music.weeb.flolep.fr"><strong><i class="live" aria-hidden="true"></i>0x40</strong><span data-i18n="tools.0x40">PWA · sound + strobe</span></a></li>
+        <li><a href="https://osu.weeb.flolep.fr"><strong><i class="live" aria-hidden="true"></i>osu</strong><span data-i18n="tools.osu">Click circles in the browser</span></a></li>
+        <li><a href="https://flolep.fr"><strong><i class="live" aria-hidden="true"></i>HQ</strong><span data-i18n="tools.hq">Pixel-art homepage · CRT toggle</span></a></li>
+      </ul>
+    </section>
+
+    <!-- Always-on links. -->
+    <section id="contact" class="contact">
+      <p class="eyebrow"><span class="idx" aria-hidden="true">10</span> <span data-i18n="stealth.eyebrow">Links</span></p>
+      <h2 data-i18n="stealth.title">Elsewhere</h2>
+      <p class="lede narrow" data-i18n="contact.calm">
+        Public work, school, and the bits that are allowed on the internet.
+      </p>
+      <div class="cta">
+        <a class="btn primary" href="https://github.com/flolep2607">GitHub</a>
+        <a class="btn" href="https://www.manifoldbt.com">ManifoldBT</a>
+        <a class="btn" href="https://flolep.fr">flolep.fr</a>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Florian Leprat · ESISAR P25 · IRC · cyber · networks · AI</p>
+    <p class="sub" data-i18n="footer.sub">GitHub Pages mirror · primary host me.flolep.fr · private work stays in the vault</p>
+  </footer>
+
+  <!--
+    End of file.
+    You looked at the whole source. Absolute legend.
+    Go drink water. Or a Coca-Cola. Through your mouth, ideally.
+  -->
+  <script src="main.js"></script>
+</body>
+</html>
